@@ -7,7 +7,7 @@ Permet:
 - Llistar contingut amb mida (bytes)
 - Obtenir la capacitat de la SD (MB)
 
-Tot es controla mitjançant comandes enviades pel monitor sèrie.
+Tot es controla mitjançant comandes enviades pel monitor sèrie. 
 
 ---
 
